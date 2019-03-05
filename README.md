@@ -7,3 +7,5 @@ Unit testing with Python
 - Unittest is in the Python standard library. Nose and Pytest are not.
 
 - Can run tests with pytest or more verbose with pytest -v use specific files only by pytest filename
+
+- To use the markers you can do pytest -v -m "strings"
